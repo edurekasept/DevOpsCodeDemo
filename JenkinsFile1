@@ -1,4 +1,4 @@
-trigger inpipeline{
+add new code trigger inpipeline{
     tools{
         jdk 'myjava'
         maven 'mymaven131'
